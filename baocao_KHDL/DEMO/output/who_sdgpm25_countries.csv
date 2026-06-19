@@ -1,0 +1,328 @@
+Country,SpatialDim,Region,Subregion,Year,PM2.5
+Afghanistan,AFG,Asia,Southern Asia,2010,59.038179536
+Afghanistan,AFG,Asia,Southern Asia,2011,54.411450667
+Afghanistan,AFG,Asia,Southern Asia,2012,54.079468051
+Afghanistan,AFG,Asia,Southern Asia,2014,55.697902802
+Afghanistan,AFG,Asia,Southern Asia,2015,56.137923101
+Afghanistan,AFG,Asia,Southern Asia,2016,58.096752764
+Afghanistan,AFG,Asia,Southern Asia,2017,56.398995614
+Afghanistan,AFG,Asia,Southern Asia,2018,55.873690234
+Afghanistan,AFG,Asia,Southern Asia,2019,46.860341635
+Afghanistan,AFG,Asia,Southern Asia,2020,40.051398828
+Afghanistan,AFG,Asia,Southern Asia,2021,43.594984612
+Afghanistan,AFG,Asia,Southern Asia,2022,42.030382431
+Afghanistan,AFG,Asia,Southern Asia,2023,37.810724858
+Albania,ALB,Europe,Southern Europe,2010,18.704619945
+Albania,ALB,Europe,Southern Europe,2011,20.046576672
+Albania,ALB,Europe,Southern Europe,2012,20.549349098
+Albania,ALB,Europe,Southern Europe,2014,15.540284586
+Albania,ALB,Europe,Southern Europe,2015,15.820896648
+Albania,ALB,Europe,Southern Europe,2016,15.450034251
+Albania,ALB,Europe,Southern Europe,2017,16.805890241
+Albania,ALB,Europe,Southern Europe,2018,16.604078676
+Albania,ALB,Europe,Southern Europe,2019,14.028016173
+Albania,ALB,Europe,Southern Europe,2020,12.450319408
+Albania,ALB,Europe,Southern Europe,2021,13.965355847
+Albania,ALB,Europe,Southern Europe,2022,12.814819214
+Albania,ALB,Europe,Southern Europe,2023,11.665116943
+American Samoa,ASM,Oceania,Polynesia,2010,6.139380449
+American Samoa,ASM,Oceania,Polynesia,2011,5.930724491
+American Samoa,ASM,Oceania,Polynesia,2012,6.23595888
+American Samoa,ASM,Oceania,Polynesia,2014,6.300397122
+American Samoa,ASM,Oceania,Polynesia,2015,6.384891431
+American Samoa,ASM,Oceania,Polynesia,2016,6.099874311
+American Samoa,ASM,Oceania,Polynesia,2017,5.968711459
+American Samoa,ASM,Oceania,Polynesia,2018,6.178785749
+American Samoa,ASM,Oceania,Polynesia,2019,6.262436418
+American Samoa,ASM,Oceania,Polynesia,2020,6.222954371
+American Samoa,ASM,Oceania,Polynesia,2021,5.943151504
+American Samoa,ASM,Oceania,Polynesia,2022,6.36334545
+American Samoa,ASM,Oceania,Polynesia,2023,5.760962048
+Andorra,AND,Europe,Southern Europe,2010,10.408549725
+Andorra,AND,Europe,Southern Europe,2011,10.812450741
+Andorra,AND,Europe,Southern Europe,2012,10.314148834
+Andorra,AND,Europe,Southern Europe,2014,8.94974919
+Andorra,AND,Europe,Southern Europe,2015,9.431239128
+Andorra,AND,Europe,Southern Europe,2016,8.528062013
+Andorra,AND,Europe,Southern Europe,2017,9.019174768
+Andorra,AND,Europe,Southern Europe,2018,8.575195786
+Andorra,AND,Europe,Southern Europe,2019,8.429741647
+Andorra,AND,Europe,Southern Europe,2020,7.828358907
+Andorra,AND,Europe,Southern Europe,2021,8.587977937
+Andorra,AND,Europe,Southern Europe,2022,9.024763101
+Andorra,AND,Europe,Southern Europe,2023,6.974459681
+Angola,AGO,Africa,Sub-Saharan Africa,2010,15.732230045
+Angola,AGO,Africa,Sub-Saharan Africa,2011,15.992358879
+Angola,AGO,Africa,Sub-Saharan Africa,2012,15.640680954
+Angola,AGO,Africa,Sub-Saharan Africa,2014,14.912399261
+Angola,AGO,Africa,Sub-Saharan Africa,2015,15.669751038
+Angola,AGO,Africa,Sub-Saharan Africa,2016,15.875964191
+Angola,AGO,Africa,Sub-Saharan Africa,2017,15.315283341
+Angola,AGO,Africa,Sub-Saharan Africa,2018,15.146456084
+Angola,AGO,Africa,Sub-Saharan Africa,2019,16.106486981
+Angola,AGO,Africa,Sub-Saharan Africa,2020,14.950581407
+Angola,AGO,Africa,Sub-Saharan Africa,2021,15.062999894
+Angola,AGO,Africa,Sub-Saharan Africa,2022,15.671640066
+Angola,AGO,Africa,Sub-Saharan Africa,2023,17.040442301
+Anguilla,AIA,Americas,Latin America and the Caribbean,2010,10.21139372
+Anguilla,AIA,Americas,Latin America and the Caribbean,2011,9.346594644
+Anguilla,AIA,Americas,Latin America and the Caribbean,2012,9.55614419
+Anguilla,AIA,Americas,Latin America and the Caribbean,2014,8.938917149
+Anguilla,AIA,Americas,Latin America and the Caribbean,2015,9.930430301
+Anguilla,AIA,Americas,Latin America and the Caribbean,2016,8.599800296
+Anguilla,AIA,Americas,Latin America and the Caribbean,2017,8.869510218
+Anguilla,AIA,Americas,Latin America and the Caribbean,2018,8.50942983
+Anguilla,AIA,Americas,Latin America and the Caribbean,2019,8.132786132
+Anguilla,AIA,Americas,Latin America and the Caribbean,2020,8.61930373
+Anguilla,AIA,Americas,Latin America and the Caribbean,2021,8.788462209
+Anguilla,AIA,Americas,Latin America and the Caribbean,2022,7.301223493
+Anguilla,AIA,Americas,Latin America and the Caribbean,2023,7.253185523
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2010,10.100092115
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2011,9.242987895
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2012,9.500000326
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2014,8.505452524
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2015,9.795131547
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2016,8.387398327
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2017,8.591927756
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2018,8.202656819
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2019,7.813498755
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2020,8.329623111
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2021,8.569433845
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2022,7.048826566
+Antigua & Barbuda,ATG,Americas,Latin America and the Caribbean,2023,7.052890837
+Argentina,ARG,Americas,Latin America and the Caribbean,2010,14.155359116
+Argentina,ARG,Americas,Latin America and the Caribbean,2011,14.579014073
+Argentina,ARG,Americas,Latin America and the Caribbean,2012,13.900776512
+Argentina,ARG,Americas,Latin America and the Caribbean,2014,14.36350823
+Argentina,ARG,Americas,Latin America and the Caribbean,2015,15.10537022
+Argentina,ARG,Americas,Latin America and the Caribbean,2016,15.107616699
+Argentina,ARG,Americas,Latin America and the Caribbean,2017,14.219431967
+Argentina,ARG,Americas,Latin America and the Caribbean,2018,13.119522936
+Argentina,ARG,Americas,Latin America and the Caribbean,2019,12.588497451
+Argentina,ARG,Americas,Latin America and the Caribbean,2020,13.596218204
+Argentina,ARG,Americas,Latin America and the Caribbean,2021,12.420132673
+Argentina,ARG,Americas,Latin America and the Caribbean,2022,12.720234029
+Argentina,ARG,Americas,Latin America and the Caribbean,2023,12.341135164
+Armenia,ARM,Asia,Western Asia,2010,35.841722435
+Armenia,ARM,Asia,Western Asia,2011,38.565262404
+Armenia,ARM,Asia,Western Asia,2012,35.919892547
+Armenia,ARM,Asia,Western Asia,2014,29.166919121
+Armenia,ARM,Asia,Western Asia,2015,32.324111354
+Armenia,ARM,Asia,Western Asia,2016,28.575343869
+Armenia,ARM,Asia,Western Asia,2017,26.727510596
+Armenia,ARM,Asia,Western Asia,2018,26.206214318
+Armenia,ARM,Asia,Western Asia,2019,27.924979513
+Armenia,ARM,Asia,Western Asia,2020,24.179391409
+Armenia,ARM,Asia,Western Asia,2021,25.60195936
+Armenia,ARM,Asia,Western Asia,2022,23.450217546
+Armenia,ARM,Asia,Western Asia,2023,20.842274184
+Australia,AUS,Oceania,Australia and New Zealand,2010,5.43038281
+Australia,AUS,Oceania,Australia and New Zealand,2011,5.624134333
+Australia,AUS,Oceania,Australia and New Zealand,2012,6.252104301
+Australia,AUS,Oceania,Australia and New Zealand,2014,6.304936509
+Australia,AUS,Oceania,Australia and New Zealand,2015,5.992493073
+Australia,AUS,Oceania,Australia and New Zealand,2016,6.224342015
+Australia,AUS,Oceania,Australia and New Zealand,2017,6.43667567
+Australia,AUS,Oceania,Australia and New Zealand,2018,6.398685531
+Australia,AUS,Oceania,Australia and New Zealand,2019,7.254699185
+Australia,AUS,Oceania,Australia and New Zealand,2020,6.250497554
+Australia,AUS,Oceania,Australia and New Zealand,2021,5.459801345
+Australia,AUS,Oceania,Australia and New Zealand,2022,4.966758384
+Australia,AUS,Oceania,Australia and New Zealand,2023,5.729385747
+Austria,AUT,Europe,Western Europe,2010,13.290727043
+Austria,AUT,Europe,Western Europe,2011,13.497155483
+Austria,AUT,Europe,Western Europe,2012,11.942412528
+Austria,AUT,Europe,Western Europe,2014,11.179807101
+Austria,AUT,Europe,Western Europe,2015,11.184254714
+Austria,AUT,Europe,Western Europe,2016,10.206590361
+Austria,AUT,Europe,Western Europe,2017,10.154121003
+Austria,AUT,Europe,Western Europe,2018,10.864720292
+Austria,AUT,Europe,Western Europe,2019,9.631735837
+Austria,AUT,Europe,Western Europe,2020,8.790345091
+Austria,AUT,Europe,Western Europe,2021,9.050300716
+Austria,AUT,Europe,Western Europe,2022,9.257511021
+Austria,AUT,Europe,Western Europe,2023,8.24225659
+Azerbaijan,AZE,Asia,Western Asia,2010,32.842895532
+Azerbaijan,AZE,Asia,Western Asia,2011,35.317839437
+Azerbaijan,AZE,Asia,Western Asia,2012,32.863552035
+Azerbaijan,AZE,Asia,Western Asia,2014,26.464067052
+Azerbaijan,AZE,Asia,Western Asia,2015,29.582113634
+Azerbaijan,AZE,Asia,Western Asia,2016,26.421867935
+Azerbaijan,AZE,Asia,Western Asia,2017,24.573664953
+Azerbaijan,AZE,Asia,Western Asia,2018,24.063790203
+Azerbaijan,AZE,Asia,Western Asia,2019,25.783974422
+Azerbaijan,AZE,Asia,Western Asia,2020,22.07308832
+Azerbaijan,AZE,Asia,Western Asia,2021,23.545728946
+Azerbaijan,AZE,Asia,Western Asia,2022,21.559772696
+Azerbaijan,AZE,Asia,Western Asia,2023,19.163693995
+Bahamas,BHS,Americas,Latin America and the Caribbean,2010,9.248048016
+Bahamas,BHS,Americas,Latin America and the Caribbean,2011,9.314209325
+Bahamas,BHS,Americas,Latin America and the Caribbean,2012,9.876532831
+Bahamas,BHS,Americas,Latin America and the Caribbean,2014,8.694678256
+Bahamas,BHS,Americas,Latin America and the Caribbean,2015,8.91068096
+Bahamas,BHS,Americas,Latin America and the Caribbean,2016,8.330327956
+Bahamas,BHS,Americas,Latin America and the Caribbean,2017,8.849965446
+Bahamas,BHS,Americas,Latin America and the Caribbean,2018,8.411173154
+Bahamas,BHS,Americas,Latin America and the Caribbean,2019,7.845480763
+Bahamas,BHS,Americas,Latin America and the Caribbean,2020,8.169356704
+Bahamas,BHS,Americas,Latin America and the Caribbean,2021,8.35847243
+Bahamas,BHS,Americas,Latin America and the Caribbean,2022,6.666894388
+Bahamas,BHS,Americas,Latin America and the Caribbean,2023,6.874385397
+Bahrain,BHR,Asia,Western Asia,2010,41.43050298
+Bahrain,BHR,Asia,Western Asia,2011,42.245166527
+Bahrain,BHR,Asia,Western Asia,2012,42.674777374
+Bahrain,BHR,Asia,Western Asia,2014,37.513180502
+Bahrain,BHR,Asia,Western Asia,2015,44.167738144
+Bahrain,BHR,Asia,Western Asia,2016,39.813016544
+Bahrain,BHR,Asia,Western Asia,2017,40.887587373
+Bahrain,BHR,Asia,Western Asia,2019,39.22802416
+Bahrain,BHR,Asia,Western Asia,2020,37.450103055
+Bahrain,BHR,Asia,Western Asia,2021,40.241913627
+Bahrain,BHR,Asia,Western Asia,2022,42.180873005
+Bahrain,BHR,Asia,Western Asia,2023,39.84993067
+Bangladesh,BGD,Asia,Southern Asia,2010,43.502303345
+Bangladesh,BGD,Asia,Southern Asia,2011,41.163097993
+Bangladesh,BGD,Asia,Southern Asia,2012,44.329764167
+Bangladesh,BGD,Asia,Southern Asia,2014,40.585466703
+Bangladesh,BGD,Asia,Southern Asia,2015,40.40864923
+Bangladesh,BGD,Asia,Southern Asia,2016,45.013241689
+Bangladesh,BGD,Asia,Southern Asia,2017,36.873802133
+Bangladesh,BGD,Asia,Southern Asia,2018,40.049942124
+Bangladesh,BGD,Asia,Southern Asia,2019,35.667978518
+Bangladesh,BGD,Asia,Southern Asia,2020,32.173686416
+Bangladesh,BGD,Asia,Southern Asia,2021,34.842903027
+Bangladesh,BGD,Asia,Southern Asia,2022,29.752937873
+Bangladesh,BGD,Asia,Southern Asia,2023,32.229670571
+Belarus,BLR,Europe,Eastern Europe,2010,13.226052967
+Belarus,BLR,Europe,Eastern Europe,2011,11.465005753
+Belarus,BLR,Europe,Eastern Europe,2012,11.442332787
+Belarus,BLR,Europe,Eastern Europe,2014,12.342400472
+Belarus,BLR,Europe,Eastern Europe,2015,10.667379179
+Belarus,BLR,Europe,Eastern Europe,2016,9.323715828
+Belarus,BLR,Europe,Eastern Europe,2017,9.03861167
+Belarus,BLR,Europe,Eastern Europe,2018,10.690840872
+Belarus,BLR,Europe,Eastern Europe,2019,10.188704568
+Belarus,BLR,Europe,Eastern Europe,2020,9.45384751
+Belarus,BLR,Europe,Eastern Europe,2021,9.314406748
+Belarus,BLR,Europe,Eastern Europe,2022,8.021435647
+Belarus,BLR,Europe,Eastern Europe,2023,8.002160818
+Belgium,BEL,Europe,Western Europe,2010,10.678033185
+Belgium,BEL,Europe,Western Europe,2011,10.714953086
+Belgium,BEL,Europe,Western Europe,2012,9.695620716
+Belgium,BEL,Europe,Western Europe,2014,8.832995522
+Belgium,BEL,Europe,Western Europe,2015,8.767675178
+Belgium,BEL,Europe,Western Europe,2016,8.239529473
+Belgium,BEL,Europe,Western Europe,2017,8.2468131
+Belgium,BEL,Europe,Western Europe,2018,8.316890413
+Belgium,BEL,Europe,Western Europe,2019,7.461481424
+Belgium,BEL,Europe,Western Europe,2020,6.82639775
+Belgium,BEL,Europe,Western Europe,2021,7.157703084
+Belgium,BEL,Europe,Western Europe,2022,7.300546591
+Belgium,BEL,Europe,Western Europe,2023,6.526083631
+Belize,BLZ,Americas,Latin America and the Caribbean,2010,12.78804498
+Belize,BLZ,Americas,Latin America and the Caribbean,2011,13.246097814
+Belize,BLZ,Americas,Latin America and the Caribbean,2012,12.261291036
+Belize,BLZ,Americas,Latin America and the Caribbean,2014,12.034632271
+Belize,BLZ,Americas,Latin America and the Caribbean,2015,12.729813674
+Belize,BLZ,Americas,Latin America and the Caribbean,2016,11.411782918
+Belize,BLZ,Americas,Latin America and the Caribbean,2017,11.845540793
+Belize,BLZ,Americas,Latin America and the Caribbean,2018,11.555610347
+Belize,BLZ,Americas,Latin America and the Caribbean,2019,11.491084391
+Belize,BLZ,Americas,Latin America and the Caribbean,2020,11.934463143
+Belize,BLZ,Americas,Latin America and the Caribbean,2021,10.916341745
+Belize,BLZ,Americas,Latin America and the Caribbean,2022,9.353119686
+Belize,BLZ,Americas,Latin America and the Caribbean,2023,10.47785685
+Benin,BEN,Africa,Sub-Saharan Africa,2010,26.896320772
+Benin,BEN,Africa,Sub-Saharan Africa,2011,28.635189147
+Benin,BEN,Africa,Sub-Saharan Africa,2012,29.029456322
+Benin,BEN,Africa,Sub-Saharan Africa,2014,26.600740126
+Benin,BEN,Africa,Sub-Saharan Africa,2015,33.402181296
+Benin,BEN,Africa,Sub-Saharan Africa,2016,32.10349134
+Benin,BEN,Africa,Sub-Saharan Africa,2017,30.821346389
+Benin,BEN,Africa,Sub-Saharan Africa,2019,27.014257368
+Benin,BEN,Africa,Sub-Saharan Africa,2020,31.893300158
+Benin,BEN,Africa,Sub-Saharan Africa,2021,31.146496534
+Benin,BEN,Africa,Sub-Saharan Africa,2022,32.299734583
+Benin,BEN,Africa,Sub-Saharan Africa,2023,31.623603293
+Bolivia,BOL,Americas,Latin America and the Caribbean,2010,14.497394611
+Bolivia,BOL,Americas,Latin America and the Caribbean,2011,13.911280294
+Bolivia,BOL,Americas,Latin America and the Caribbean,2012,14.276521861
+Bolivia,BOL,Americas,Latin America and the Caribbean,2014,12.405825537
+Bosnia,BIH,Europe,Southern Europe,2010,29.493362213
+Bosnia,BIH,Europe,Southern Europe,2011,32.946025336
+Bosnia,BIH,Europe,Southern Europe,2012,31.325351846
+Bosnia,BIH,Europe,Southern Europe,2014,27.347049052
+Bosnia,BIH,Europe,Southern Europe,2015,26.843120167
+Bosnia,BIH,Europe,Southern Europe,2016,25.879735674
+Bosnia,BIH,Europe,Southern Europe,2017,27.646292317
+Bosnia,BIH,Europe,Southern Europe,2018,27.907738908
+Bosnia,BIH,Europe,Southern Europe,2019,23.496920674
+Bosnia,BIH,Europe,Southern Europe,2020,21.869453852
+Bosnia,BIH,Europe,Southern Europe,2021,22.31906345
+Bosnia,BIH,Europe,Southern Europe,2022,21.704845608
+Bosnia,BIH,Europe,Southern Europe,2023,18.583369081
+Bulgaria,BGR,Europe,Eastern Europe,2010,19.21296947
+Bulgaria,BGR,Europe,Eastern Europe,2011,19.810663353
+Bulgaria,BGR,Europe,Eastern Europe,2012,18.177537566
+Bulgaria,BGR,Europe,Eastern Europe,2014,16.71943674
+Bulgaria,BGR,Europe,Eastern Europe,2015,15.887695369
+Bulgaria,BGR,Europe,Eastern Europe,2016,15.745161394
+Bulgaria,BGR,Europe,Eastern Europe,2017,16.307764791
+Bulgaria,BGR,Europe,Eastern Europe,2018,15.728409797
+Bulgaria,BGR,Europe,Eastern Europe,2019,14.054408003
+Bulgaria,BGR,Europe,Eastern Europe,2020,12.698530565
+Bulgaria,BGR,Europe,Eastern Europe,2021,12.959876376
+Bulgaria,BGR,Europe,Eastern Europe,2022,12.34697399
+Bulgaria,BGR,Europe,Eastern Europe,2023,10.987474184
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2010,30.315729834
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2011,31.065427583
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2012,30.955150911
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2014,28.543449642
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2015,34.336935304
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2016,33.380928542
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2017,32.264442288
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2018,31.109496844
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2019,28.934769657
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2020,32.67600985
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2021,31.689075662
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2022,34.169965574
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,2023,31.937480206
+Burundi,BDI,Africa,Sub-Saharan Africa,2010,18.800495403
+Burundi,BDI,Africa,Sub-Saharan Africa,2011,19.140791726
+Burundi,BDI,Africa,Sub-Saharan Africa,2012,19.310302557
+Burundi,BDI,Africa,Sub-Saharan Africa,2014,18.990850113
+Burundi,BDI,Africa,Sub-Saharan Africa,2015,19.276726193
+Burundi,BDI,Africa,Sub-Saharan Africa,2016,19.352248401
+Burundi,BDI,Africa,Sub-Saharan Africa,2017,18.262254139
+Burundi,BDI,Africa,Sub-Saharan Africa,2018,17.935081057
+Burundi,BDI,Africa,Sub-Saharan Africa,2019,18.855154532
+Burundi,BDI,Africa,Sub-Saharan Africa,2020,19.389908521
+Burundi,BDI,Africa,Sub-Saharan Africa,2021,19.691159637
+Burundi,BDI,Africa,Sub-Saharan Africa,2022,19.408887275
+Burundi,BDI,Africa,Sub-Saharan Africa,2023,18.451578148
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2010,10.657459155
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2011,9.847942007
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2012,10.2149482
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2014,9.359431622
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2015,10.388311879
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2016,9.122749556
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2017,9.251168134
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2018,9.013656128
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2019,8.485591074
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2020,8.943967906
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2021,9.144168059
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2022,7.580784358
+Caribbean Netherlands,BES,Americas,Latin America and the Caribbean,2023,7.612601414
+United Arab Emirates,ARE,Asia,Western Asia,2010,29.770633884
+United Arab Emirates,ARE,Asia,Western Asia,2011,30.008851352
+United Arab Emirates,ARE,Asia,Western Asia,2012,31.274609592
+United Arab Emirates,ARE,Asia,Western Asia,2014,27.518015703
+United Arab Emirates,ARE,Asia,Western Asia,2015,30.838311936
+United Arab Emirates,ARE,Asia,Western Asia,2016,28.258225561
+United Arab Emirates,ARE,Asia,Western Asia,2017,29.285708256
+United Arab Emirates,ARE,Asia,Western Asia,2018,30.329755825
+United Arab Emirates,ARE,Asia,Western Asia,2019,29.042881363
+United Arab Emirates,ARE,Asia,Western Asia,2020,27.38088511
+United Arab Emirates,ARE,Asia,Western Asia,2021,28.339769853
+United Arab Emirates,ARE,Asia,Western Asia,2022,29.970887702
+United Arab Emirates,ARE,Asia,Western Asia,2023,28.437608499
